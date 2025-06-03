@@ -5,7 +5,7 @@ I wrote a simple messenger, tho u can test it.
 # How to use it?
  1.`Download This file (<code> -> Download on ZIP)`  
  2.`Run up main.py`  
- 3.`U can see a login page, just click text under and do simple reistration(username, password) and log in w them`
+ 3.`U can see a login page, just click text under and do simple reistration(username, password) and log in w them`  
  4.`now u can see that it works`  
 
 u can also check the terminal for be awared in detail  
