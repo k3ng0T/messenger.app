@@ -3,7 +3,7 @@
 # BETA 0.02-04.06.2025
 PATCHNOTES:  
 1.`was add app vesion`  
-2.`the read me file has been fixed`
+2.`the read me file has been fixed`  
 UPDATES  
 `BETA 0.01-03.06.2025`
 # How to use it?
