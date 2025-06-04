@@ -13,9 +13,11 @@ UPDATES
  3.`U can see a login page, just click text under and do simple reistration(username, password) and log in w them`  
  4.`now u can see that it works`  
 `OR`  
- 1.`Download file as zip file`  
+ 1.`Download file from` [there](https://drive.google.com/file/d/1EuZVSwquAzIFKZqG4SbkEf0QOSE2mPkq/view?usp=sharing)  
  2.`Unzip and open .exe file`  
  3.`U can see a login page, just click text under and do simple reistration(username, password) and log in w them`  
  4.`now u can see that it works` 
+
+ 
 u can also check the terminal for be awared in detail  
 have fun tho  
